@@ -1,0 +1,61 @@
+LEAD GENERATION REPORT
+Generated: 2025-12-06 13:07:01
+Total Leads: 5
+
+LEAD DETAILS:
+=============
+
+Lead ID: L1-4367
+Email: NAM3510-M7_1024x1024@2x-400x225.jpg
+Phone: (905) 458-6828
+Company: Hitechav Company
+Industry: Technology
+Source: https://www.hitechav.ca/
+Quality Score: 60/100
+Status: NEW
+Added: 2025-12-06 13:06:07
+---
+
+Lead ID: L2-4367
+Email: NAM3510-M7_1024x1024@2x-480x270.jpg
+Phone: (905) 458-6828
+Company: Hitechav Company
+Industry: Technology
+Source: https://www.hitechav.ca/
+Quality Score: 60/100
+Status: NEW
+Added: 2025-12-06 13:06:07
+---
+
+Lead ID: L3-4367
+Email: NAM3510-M7_1024x1024@2x-768x432.jpg
+Phone: (905) 458-6828
+Company: Hitechav Company
+Industry: Technology
+Source: https://www.hitechav.ca/
+Quality Score: 60/100
+Status: NEW
+Added: 2025-12-06 13:06:07
+---
+
+Lead ID: L4-4367
+Email: NAM3510-M7_1024x1024@2x.jpg
+Phone: (905) 458-6828
+Company: Hitechav Company
+Industry: Technology
+Source: https://www.hitechav.ca/
+Quality Score: 60/100
+Status: NEW
+Added: 2025-12-06 13:06:07
+---
+
+Lead ID: L5-4367
+Email: clientservices@hitechav.ca
+Phone: (905) 458-6828
+Company: Hitechav Company
+Industry: Technology
+Source: https://www.hitechav.ca/
+Quality Score: 60/100
+Status: NEW
+Added: 2025-12-06 13:06:07
+---
